@@ -1,0 +1,133 @@
+2021-07-06 12:48:50,561  INFO [main] LoginPageTest:32 - log4j........
+2021-07-06 12:56:38,214  INFO [main] LoginPageTest:32 - log4j........
+2021-07-06 12:56:38,230  INFO [main] LoginPage:38 - Verify title of login page
+2021-07-06 12:57:38,195  INFO [main] LoginPageTest:32 - log4j........
+2021-07-06 22:51:10,174  INFO [main] LoginPageTest:38 - verify Logo of LoginPage
+2021-07-06 22:54:13,566  INFO [main] LoginPageTest:44 - verify Text on LoginPage
+2021-07-06 23:02:09,527  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-06 23:02:11,484  INFO [main] LoginPageTest:40 - verify Logo of LoginPage
+2021-07-06 23:02:13,630  INFO [main] LoginPageTest:46 - verify Text on LoginPage
+2021-07-06 23:02:15,469  INFO [main] LoginPageTest:52 - verify text on LoginPage
+2021-07-06 23:02:17,617  INFO [main] LoginPageTest:58 - verify text on LoginPage
+2021-07-06 23:02:19,654  INFO [main] LoginPageTest:64 - verify Without Fill Email and Password on LoginPage Error show
+2021-07-06 23:02:21,748  INFO [main] LoginPageTest:70 - verify Without Fill Password on LoginPage Error show
+2021-07-06 23:02:23,842  INFO [main] LoginPageTest:76 - verify Without Fill Email  on LoginPage Error show
+2021-07-06 23:02:26,119  INFO [main] LoginPageTest:82 - verify Invalid  Password on LoginPage Error show
+2021-07-06 23:02:29,082  INFO [main] LoginPageTest:88 - verify Invalid  Email on LoginPage Error show
+2021-07-06 23:02:32,420  INFO [main] LoginPageTest:94 - verify Valid Email & Password fill and Dashboard Page Open
+2021-07-07 15:45:15,614  INFO [main] LoginPageTest:64 - verify Without Fill Email and Password on LoginPage Error show
+2021-07-07 16:26:42,223  INFO [main] LoginPageTest:40 - verify Logo of LoginPage
+2021-07-09 12:28:31,013  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-09 12:50:14,754  INFO [main] LoginPageTest:41 - verify Logo of LoginPage
+2021-07-09 13:08:55,864  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-09 13:33:43,266  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-09 16:56:26,758  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-11 14:46:16,989  INFO [main] UserPageTest:55 - verify Check header of UserPage table
+2021-07-12 14:28:05,589  INFO [main] UserPageTest:48 - verify Header Text of UserPage
+2021-07-12 15:22:02,944  INFO [main] UserPageTest:173 - verify Courses with Username on UserPage
+2021-07-12 20:02:32,790  INFO [main] UserPageTest:41 - verify Title of UserPage
+2021-07-13 11:44:08,348  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 11:45:15,655  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 11:46:07,577  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 11:49:22,535  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 12:23:59,232  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 12:31:10,263  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 12:48:07,022  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 12:55:00,842  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 13:03:32,357  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 13:07:21,916  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 13:36:08,845  INFO [main] LoginPageTest:34 - verify Title of LoginPage
+2021-07-13 13:36:57,769  INFO [main] LoginPageTest:33 - verify Title of LoginPage
+2021-07-13 13:41:25,847  INFO [main] LoginPageTest:47 - verify Text on LoginPage
+2021-07-13 13:43:37,178  INFO [main] LoginPageTest:47 - verify Text on LoginPage
+2021-07-13 13:44:27,072  INFO [main] LoginPageTest:47 - verify Text on LoginPage
+2021-07-13 13:45:01,229  INFO [main] LoginPageTest:33 - verify Title of LoginPage
+2021-07-13 13:49:41,214  INFO [main] LoginPageTest:47 - verify Text on LoginPage
+2021-07-13 13:53:48,892  INFO [main] LoginPageTest:47 - verify Text on LoginPage
+2021-07-13 14:14:10,121  INFO [main] LoginPageTest:33 - verify Title of LoginPage
+2021-07-13 14:14:12,524  INFO [main] LoginPageTest:40 - verify Logo of LoginPage
+2021-07-13 14:14:14,982  INFO [main] LoginPageTest:47 - verify Text on LoginPage
+2021-07-13 14:14:17,274  INFO [main] LoginPageTest:54 - verify text on LoginPage
+2021-07-13 14:14:20,405  INFO [main] LoginPageTest:61 - verify text on LoginPage
+2021-07-13 14:14:23,129  INFO [main] LoginPageTest:68 - verify Without Fill Email and Password on LoginPage Error show
+2021-07-13 14:14:26,010  INFO [main] LoginPageTest:75 - verify Without Fill Password on LoginPage Error show
+2021-07-13 14:14:29,017  INFO [main] LoginPageTest:82 - verify Without Fill Email  on LoginPage Error show
+2021-07-13 14:14:32,118  INFO [main] LoginPageTest:89 - verify Invalid  Password on LoginPage Error show
+2021-07-13 14:14:35,082  INFO [main] LoginPageTest:96 - verify Invalid  Email on LoginPage Error show
+2021-07-13 14:14:37,971  INFO [main] LoginPageTest:103 - verify Valid Email & Password fill and Dashboard Page Open
+2021-07-13 14:33:03,775  INFO [main] LoginPageTest:54 - verify text on LoginPage
+2021-07-14 14:31:52,578  INFO [main] LoginPageTest:37 - verify Title of LoginPage
+2021-07-14 14:33:12,901  INFO [main] LoginPageTest:37 - verify Title of LoginPage
+2021-07-14 14:37:05,472  INFO [main] LoginPageTest:37 - verify Title of LoginPage
+2021-07-14 14:38:01,967  INFO [main] LoginPageTest:37 - verify Title of LoginPage
+2021-07-14 14:39:29,137  INFO [main] LoginPageTest:37 - verify Title of LoginPage
+2021-07-14 14:39:31,152  INFO [main] LoginPageTest:45 - verify Logo of LoginPage
+2021-07-14 14:39:33,601  INFO [main] LoginPageTest:53 - verify Text on LoginPage
+2021-07-14 14:39:35,817  INFO [main] LoginPageTest:61 - verify text on LoginPage
+2021-07-14 14:39:38,005  INFO [main] LoginPageTest:70 - verify text on LoginPage
+2021-07-14 14:39:40,256  INFO [main] LoginPageTest:78 - verify Without Fill Email and Password on LoginPage Error show
+2021-07-14 14:39:42,882  INFO [main] LoginPageTest:85 - verify Without Fill Password on LoginPage Error show
+2021-07-14 14:39:45,631  INFO [main] LoginPageTest:92 - verify Without Fill Email  on LoginPage Error show
+2021-07-14 14:39:48,473  INFO [main] LoginPageTest:99 - verify Invalid  Password on LoginPage Error show
+2021-07-14 14:39:51,029  INFO [main] LoginPageTest:106 - verify Invalid  Email on LoginPage Error show
+2021-07-14 14:39:53,781  INFO [main] LoginPageTest:113 - verify Valid Email & Password fill and Dashboard Page Open
+2021-07-14 14:47:55,804  INFO [main] LoginPageTest:63 - verify text on LoginPage
+2021-07-14 14:59:53,270  INFO [main] LoginPageTest:63 - verify text on LoginPage
+2021-07-14 15:00:20,454  INFO [main] LoginPageTest:47 - verify Logo of LoginPage
+2021-07-14 15:01:56,050  INFO [main] LoginPageTest:39 - verify Title of LoginPage
+2021-07-14 15:24:33,166  INFO [main] LoginPageTest:39 - verify Title of LoginPage
+2021-07-15 14:41:18,431  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:42:23,540  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:43:44,419  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:44:10,986  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:45:23,233  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:45:49,899  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:47:27,725  INFO [main] UserPageTest:162 - verify MaharastraState  with Username on UserPage
+2021-07-15 14:58:47,046  INFO [main] UserPageTest:95 - verify Male and Female in UserPage
+2021-07-15 15:01:40,016  INFO [main] UserPageTest:95 - verify Male and Female in UserPage
+2021-07-15 15:07:50,809  INFO [main] UserPageTest:95 - verify Male and Female in UserPage
+2021-07-15 15:11:34,942  INFO [main] UserPageTest:95 - verify Male and Female in UserPage
+2021-07-15 15:14:28,433  INFO [main] UserPageTest:95 - verify Male and Female in UserPage
+2021-07-15 15:15:57,092  INFO [main] UserPageTest:95 - verify Male and Female in UserPage
+2021-07-20 14:48:46,320  INFO [main] OperatorsPageTest:39 - verify count of person on operator page
+2021-07-28 14:04:07,331  INFO [main] DownloadsPageTest:39 - verify Vender of Goolechrome with version
+2021-07-28 14:05:03,819  INFO [main] DownloadsPageTest:28 - verify Header of DownLoadsPage
+2021-07-28 14:05:16,398  INFO [main] DownloadsPageTest:39 - verify Vender of Goolechrome with version
+2021-07-28 14:12:31,627  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 14:14:16,925  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 14:16:10,604  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 14:19:57,403  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 14:24:01,232  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 14:32:38,606  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 14:36:50,004  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-28 21:08:58,850  INFO [main] DownloadsPageTest:39 - verify Vender of Goolechrome with version
+2021-07-28 21:11:17,869  INFO [main] LoginPageTest:81 - verify Without Fill Email and Password on LoginPage Error show
+2021-07-29 15:03:34,549  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-29 15:06:20,923  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-29 15:21:08,093  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:21:55,935  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:22:50,419  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:23:44,321  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:24:48,942  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:25:20,701  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:26:57,538  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:27:21,213  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-29 15:29:28,854  INFO [main] DownloadsPageTest:94 - verify Vender of 32bit & 64bit
+2021-07-29 15:30:48,599  INFO [main] DownloadsPageTest:94 - verify Vender of 32bit & 64bit
+2021-07-29 15:37:57,731  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:38:29,303  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:39:23,147  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:40:27,687  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:42:22,623  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:45:31,972  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:48:29,822  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:51:33,062  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-29 15:55:03,086  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-30 13:59:00,273  INFO [main] DownloadsPageTest:39 - verify Vender of Goolechrome with version
+2021-07-30 13:59:05,931  INFO [main] DownloadsPageTest:50 - verify Vender of Selenium Jar with version
+2021-07-30 13:59:11,345  INFO [main] DownloadsPageTest:61 - verify Vender & Version of 32 bit
+2021-07-30 13:59:17,277  INFO [main] DownloadsPageTest:72 - verify Vender & Version of 64 bit
+2021-07-30 13:59:22,731  INFO [main] DownloadsPageTest:83 - verify SerialNo with Excel
+2021-07-30 13:59:27,324  INFO [main] DownloadsPageTest:94 - verify Vender of 32bit & 64bit
+2021-07-30 13:59:33,038  INFO [main] DownloadsPageTest:105 - verify Common Vender on downloads Page
+2021-07-30 14:05:28,561  INFO [main] DownloadsPageTest:50 - verify Vender of Selenium Jar with version

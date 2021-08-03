@@ -1,0 +1,554 @@
+2021-07-06 12:57:38,216  INFO [main] LoginPage:38 - Verify title of login page
+2021-07-06 22:54:13,689  INFO [main] LoginPage:63 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-06 22:54:13,691  INFO [main] LoginPage:67 - Text is Matched.
+2021-07-06 23:02:09,539  INFO [main] LoginPage:38 - Verify title of login page
+2021-07-06 23:02:09,540  INFO [main] LoginPage:42 - LoginPage Title is Matched
+2021-07-06 23:02:13,670  INFO [main] LoginPage:63 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-06 23:02:13,671  INFO [main] LoginPage:67 - Text is Matched.
+2021-07-06 23:02:15,509  INFO [main] LoginPage:79 - Login Page Text is: Java By Kiran
+2021-07-06 23:02:15,510  INFO [main] LoginPage:83 - Text is Matched.
+2021-07-06 23:02:17,650  INFO [main] LoginPage:97 - Login Page Text is: Sign in to start your session
+2021-07-06 23:02:17,651  INFO [main] LoginPage:101 - Text is Matched.
+2021-07-06 23:02:19,913  INFO [main] LoginPage:119 - Email error is: Please enter email as kiran@gmail.com
+2021-07-06 23:02:19,945  INFO [main] LoginPage:123 - Password error is: Please enter password 123456
+2021-07-06 23:02:19,946  INFO [main] LoginPage:127 - Email Error is matched
+2021-07-06 23:02:21,966  INFO [main] LoginPage:152 - Password Error is Matched.
+2021-07-06 23:02:24,054  INFO [main] LoginPage:173 - Email Error is Matched.
+2021-07-06 23:02:26,470  INFO [main] LoginPage:196 - Password error is: Please enter password 123456
+2021-07-06 23:02:26,471  INFO [main] LoginPage:200 - Valid Email and Invalid Password is Matched.
+2021-07-06 23:02:29,405  INFO [main] LoginPage:224 - Valid Password and Invalid Email is Matched.
+2021-07-06 23:02:32,936  INFO [main] LoginPage:246 - Dashborad pageTitle is Match
+2021-07-07 15:45:16,017  INFO [main] LoginPage:123 - Email error is: Please enter email as kiran@gmail.com
+2021-07-07 15:45:16,072  INFO [main] LoginPage:127 - Password error is: Please enter password 123456
+2021-07-07 15:45:16,075  INFO [main] LoginPage:131 - Email Error is matched
+2021-07-08 15:01:07,389  INFO [main] DashboardPage:50 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 15:03:20,427  INFO [main] DashboardPage:50 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 15:06:42,636  INFO [main] DashboardPage:50 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 15:10:08,028  INFO [main] DashboardPage:50 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 15:12:00,585  INFO [main] DashboardPage:50 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 15:15:55,246  INFO [main] DashboardPage:50 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 15:22:04,571  INFO [main] DashboardPage:76 - Courses are not Match with Excelsheet
+2021-07-08 16:06:39,858  INFO [main] DashboardPage:49 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 16:07:23,761  INFO [main] DashboardPage:76 - Courses are not Match with Excelsheet
+2021-07-08 16:09:13,011  INFO [main] DashboardPage:49 - [Dashboard, Users, Operators, Useful Links, Downloads, Logout]
+2021-07-08 16:09:13,119  INFO [main] DashboardPage:52 - Side Menus is Matech
+2021-07-08 16:10:00,993  INFO [main] DashboardPage:76 - Courses are not Match with Excelsheet
+2021-07-08 16:15:15,043  INFO [main] DashboardPage:76 - Courses are not Match with Excelsheet
+2021-07-08 16:22:27,632  INFO [main] DashboardPage:73 - Courses are Match with Excelsheet
+2021-07-09 12:28:31,027  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-09 12:28:31,029  INFO [main] LoginPage:44 - LoginPage Title is Matched
+2021-07-09 13:08:55,884  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-09 13:08:55,885  INFO [main] LoginPage:44 - LoginPage Title is Matched
+2021-07-09 13:33:43,277  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-09 13:33:43,278  INFO [main] LoginPage:44 - LoginPage Title is Matched
+2021-07-09 16:56:26,816  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-09 16:56:26,818  INFO [main] LoginPage:44 - LoginPage Title is Matched
+2021-07-11 14:39:13,365  INFO [main] UserPage:123 - Actual header is [#]
+2021-07-11 14:39:13,388  INFO [main] UserPage:123 - Actual header is [#, Username]
+2021-07-11 14:39:13,402  INFO [main] UserPage:123 - Actual header is [#, Username, Email]
+2021-07-11 14:39:13,418  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile]
+2021-07-11 14:39:13,434  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course]
+2021-07-11 14:39:13,449  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender]
+2021-07-11 14:39:13,465  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender, State]
+2021-07-11 14:39:13,479  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender, State, Action]
+2021-07-11 14:39:13,685  INFO [main] UserPage:131 - Header is Not Match
+2021-07-11 14:43:34,487  INFO [main] UserPage:123 - Actual header is [#]
+2021-07-11 14:43:34,507  INFO [main] UserPage:123 - Actual header is [#, Username]
+2021-07-11 14:43:34,523  INFO [main] UserPage:123 - Actual header is [#, Username, Email]
+2021-07-11 14:43:34,538  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile]
+2021-07-11 14:43:34,549  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course]
+2021-07-11 14:43:34,560  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender]
+2021-07-11 14:43:34,572  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender, State]
+2021-07-11 14:43:34,584  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender, State, Action]
+2021-07-11 14:43:34,689  INFO [main] UserPage:128 - Header is Match
+2021-07-11 14:46:17,041  INFO [main] UserPage:123 - Actual header is [#]
+2021-07-11 14:46:17,055  INFO [main] UserPage:123 - Actual header is [#, Username]
+2021-07-11 14:46:17,070  INFO [main] UserPage:123 - Actual header is [#, Username, Email]
+2021-07-11 14:46:17,082  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile]
+2021-07-11 14:46:17,094  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course]
+2021-07-11 14:46:17,107  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender]
+2021-07-11 14:46:17,118  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender, State]
+2021-07-11 14:46:17,132  INFO [main] UserPage:123 - Actual header is [#, Username, Email, Mobile, Course, Gender, State, Action]
+2021-07-11 14:46:17,218  INFO [main] UserPage:128 - Header is Match
+2021-07-11 15:35:30,155  INFO [main] UserPage:279 - Kiran:Male
+2021-07-11 15:35:30,258  INFO [main] UserPage:279 - Sagar:Male
+2021-07-11 15:35:30,339  INFO [main] UserPage:279 - Monica:Female
+2021-07-11 15:35:30,449  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-11 15:39:15,967  INFO [main] UserPage:279 - Kiran:Male
+2021-07-11 15:39:16,058  INFO [main] UserPage:279 - Sagar:Male
+2021-07-11 15:39:16,136  INFO [main] UserPage:279 - Monica:Female
+2021-07-11 15:39:16,230  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-11 15:39:43,069  INFO [main] UserPage:279 - Kiran:Male
+2021-07-11 15:39:43,180  INFO [main] UserPage:279 - Sagar:Male
+2021-07-11 15:39:43,267  INFO [main] UserPage:279 - Monica:Female
+2021-07-11 15:39:43,351  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-11 15:40:53,934  INFO [main] UserPage:279 - Kiran:Male
+2021-07-11 15:40:54,019  INFO [main] UserPage:279 - Sagar:Male
+2021-07-11 15:40:54,113  INFO [main] UserPage:279 - Monica:Female
+2021-07-11 15:40:54,187  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-11 15:40:54,623  INFO [main] UserPage:290 - [Sagar:, sagar@gmail.com:, 999999999:, Selenium:, Male:]
+2021-07-11 15:40:54,625  INFO [main] UserPage:295 - with username Male & Female are not match 
+2021-07-11 15:44:49,109  INFO [main] UserPage:279 - Kiran:Male
+2021-07-11 15:44:49,214  INFO [main] UserPage:279 - Sagar:Male
+2021-07-11 15:44:49,304  INFO [main] UserPage:279 - Monica:Female
+2021-07-11 15:44:49,382  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-11 15:44:49,886  INFO [main] UserPage:290 - [Maharashtra:Maharashtra, Panjab:Panjab, Maharashtra:Maharashtra, Panjab:Panjab, :]
+2021-07-11 15:44:49,888  INFO [main] UserPage:295 - with username Male & Female are not match 
+2021-07-12 14:28:05,667  INFO [main] UserPage:76 - Page Text is: Users
+2021-07-12 14:28:05,668  INFO [main] UserPage:83 - Text is Not Match
+2021-07-12 14:49:48,331  INFO [main] UserPage:279 - Kiran:Male
+2021-07-12 14:49:48,419  INFO [main] UserPage:279 - Sagar:Male
+2021-07-12 14:49:48,504  INFO [main] UserPage:279 - Monica:Female
+2021-07-12 14:49:48,577  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-12 14:49:49,191  INFO [main] UserPage:295 - with username Male & Female are not match 
+2021-07-12 14:55:06,550  INFO [main] UserPage:279 - Kiran:Male
+2021-07-12 14:55:06,632  INFO [main] UserPage:279 - Sagar:Male
+2021-07-12 14:55:06,705  INFO [main] UserPage:279 - Monica:Female
+2021-07-12 14:55:06,794  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-12 14:57:56,671  INFO [main] UserPage:279 - Kiran:Male
+2021-07-12 14:57:56,758  INFO [main] UserPage:279 - Sagar:Male
+2021-07-12 14:57:56,828  INFO [main] UserPage:279 - Monica:Female
+2021-07-12 14:57:56,911  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-12 15:00:07,093  INFO [main] UserPage:279 - Kiran:Male
+2021-07-12 15:00:07,148  INFO [main] UserPage:279 - Sagar:Male
+2021-07-12 15:00:07,230  INFO [main] UserPage:279 - Monica:Female
+2021-07-12 15:00:07,289  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-12 15:03:17,910  INFO [main] UserPage:279 - Kiran:Male
+2021-07-12 15:03:17,993  INFO [main] UserPage:279 - Sagar:Male
+2021-07-12 15:03:18,068  INFO [main] UserPage:279 - Monica:Female
+2021-07-12 15:03:18,144  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-12 15:05:34,969  INFO [main] UserPage:279 - Kiran:Male
+2021-07-12 15:05:35,049  INFO [main] UserPage:279 - Sagar:Male
+2021-07-12 15:05:35,125  INFO [main] UserPage:279 - Monica:Female
+2021-07-12 15:05:35,198  INFO [main] UserPage:279 - Kimaya:Female
+2021-07-12 15:05:35,320  INFO [main] UserPage:286 - with username Male & Female are match
+2021-07-12 15:09:31,075  INFO [main] UserPage:305 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-12 15:09:31,525  INFO [main] UserPage:316 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-12 15:09:31,527  INFO [main] UserPage:318 - with username Maharashtra is match 
+2021-07-12 15:09:40,905  INFO [main] UserPage:335 - Kiran : Java/J2EE
+2021-07-12 15:09:40,986  INFO [main] UserPage:335 - Sagar : Selenium
+2021-07-12 15:09:41,068  INFO [main] UserPage:335 - Monica : Python
+2021-07-12 15:09:41,144  INFO [main] UserPage:335 - Kimaya : PHP
+2021-07-12 15:09:41,280  INFO [main] UserPage:341 - with username courses are match 
+2021-07-12 15:22:03,044  INFO [main] UserPage:335 - Kiran : Java/J2EE
+2021-07-12 15:22:03,120  INFO [main] UserPage:335 - Sagar : Selenium
+2021-07-12 15:22:03,201  INFO [main] UserPage:335 - Monica : Python
+2021-07-12 15:22:03,255  INFO [main] UserPage:335 - Kimaya : PHP
+2021-07-12 15:22:03,378  INFO [main] UserPage:341 - with username courses are match 
+2021-07-12 20:02:32,825  INFO [main] UserPage:61 - Page Title is : JavaByKiran | User
+2021-07-12 20:02:32,827  INFO [main] UserPage:65 - Title is match
+2021-07-13 11:44:08,411  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-13 11:44:08,413  INFO [main] LoginPage:47 - LoginPage Title is not Matched
+2021-07-13 11:45:15,683  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-13 11:45:15,686  INFO [main] LoginPage:44 - LoginPage Title is Matched
+2021-07-13 11:46:07,604  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-13 11:46:07,606  INFO [main] LoginPage:47 - LoginPage Title is not Matched
+2021-07-13 11:49:22,562  INFO [main] LoginPage:40 - Verify title of login page
+2021-07-13 11:49:22,565  INFO [main] LoginPage:47 - LoginPage Title is not Matched
+2021-07-13 12:23:59,260  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 12:23:59,263  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 12:31:10,277  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 12:31:10,278  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 12:48:07,042  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 12:48:07,044  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 12:55:00,853  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 12:55:00,854  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 13:03:32,369  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 13:03:32,370  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 13:07:21,933  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 13:07:21,935  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 13:36:08,855  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 13:36:08,856  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 13:36:57,781  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 13:36:57,782  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 13:41:25,893  INFO [main] LoginPage:66 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-13 13:41:25,894  INFO [main] LoginPage:74 - Text is not Matched. 
+2021-07-13 13:43:37,215  INFO [main] LoginPage:66 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-13 13:43:37,217  INFO [main] LoginPage:74 - Text is not Matched. 
+2021-07-13 13:44:27,110  INFO [main] LoginPage:66 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-13 13:44:27,112  INFO [main] LoginPage:74 - Text is not Matched. 
+2021-07-13 13:45:01,241  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 13:45:01,243  INFO [main] LoginPage:48 - LoginPage Title is not Matched
+2021-07-13 13:49:41,253  INFO [main] LoginPage:66 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-13 13:49:41,254  INFO [main] LoginPage:74 - Text is not Matched. 
+2021-07-13 13:53:48,931  INFO [main] LoginPage:66 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-13 13:53:48,932  INFO [main] LoginPage:74 - Text is not Matched. 
+2021-07-13 14:14:10,152  INFO [main] LoginPage:41 - Verify title of login page
+2021-07-13 14:14:10,154  INFO [main] LoginPage:45 - LoginPage Title is Matched
+2021-07-13 14:14:15,045  INFO [main] LoginPage:66 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-13 14:14:15,047  INFO [main] LoginPage:70 - Text is Matched.
+2021-07-13 14:14:17,321  INFO [main] LoginPage:82 - Login Page Text is: Java By Kiran
+2021-07-13 14:14:17,322  INFO [main] LoginPage:90 - Text is not Matched. 
+2021-07-13 14:14:20,468  INFO [main] LoginPage:100 - Login Page Text is: Sign in to start your session
+2021-07-13 14:14:20,469  INFO [main] LoginPage:104 - Text is Matched.
+2021-07-13 14:14:23,628  INFO [main] LoginPage:122 - Email error is: Please enter email as kiran@gmail.com
+2021-07-13 14:14:23,676  INFO [main] LoginPage:126 - Password error is: Please enter password 123456
+2021-07-13 14:14:23,680  INFO [main] LoginPage:130 - Email Error is matched
+2021-07-13 14:14:26,363  INFO [main] LoginPage:155 - Password Error is Matched.
+2021-07-13 14:14:29,359  INFO [main] LoginPage:176 - Email Error is Matched.
+2021-07-13 14:14:32,722  INFO [main] LoginPage:196 - Password error is: Please enter password 123456
+2021-07-13 14:14:32,724  INFO [main] LoginPage:200 - Valid Email and Invalid Password is Matched.
+2021-07-13 14:14:35,665  INFO [main] LoginPage:224 - Valid Password and Invalid Email is Matched.
+2021-07-13 14:14:38,641  INFO [main] LoginPage:246 - Dashborad pageTitle is Match
+2021-07-13 14:33:03,863  INFO [main] LoginPage:82 - Login Page Text is: Java By Kiran
+2021-07-13 14:33:03,865  INFO [main] LoginPage:90 - Text is not Matched. 
+2021-07-14 14:31:52,660  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 14:31:52,664  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-14 14:33:12,937  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 14:33:12,941  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-14 14:37:05,493  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 14:37:05,497  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-14 14:38:01,997  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 14:38:01,999  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-14 14:39:29,167  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 14:39:29,170  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-14 14:39:33,764  INFO [main] LoginPage:77 - Login Page Text is: JAVA | SELENIUM | PYTHON
+2021-07-14 14:39:33,767  INFO [main] LoginPage:82 - Text is Matched.
+2021-07-14 14:39:35,874  INFO [main] LoginPage:94 - Login Page Text is: Java By Kiran
+2021-07-14 14:39:35,877  INFO [main] LoginPage:103 - Text is not Matched. 
+2021-07-14 14:39:38,060  INFO [main] LoginPage:113 - Login Page Text is: Sign in to start your session
+2021-07-14 14:39:38,063  INFO [main] LoginPage:119 - Text is Matched.
+2021-07-14 14:39:40,658  INFO [main] LoginPage:137 - Email error is: Please enter email as kiran@gmail.com
+2021-07-14 14:39:40,702  INFO [main] LoginPage:141 - Password error is: Please enter password 123456
+2021-07-14 14:39:40,706  INFO [main] LoginPage:145 - Email Error is matched
+2021-07-14 14:39:43,233  INFO [main] LoginPage:170 - Password Error is Matched.
+2021-07-14 14:39:45,954  INFO [main] LoginPage:191 - Email Error is Matched.
+2021-07-14 14:39:48,989  INFO [main] LoginPage:211 - Password error is: Please enter password 123456
+2021-07-14 14:39:48,992  INFO [main] LoginPage:215 - Valid Email and Invalid Password is Matched.
+2021-07-14 14:39:51,549  INFO [main] LoginPage:239 - Valid Password and Invalid Email is Matched.
+2021-07-14 14:39:54,738  INFO [main] LoginPage:261 - Dashborad pageTitle is Match
+2021-07-14 14:47:55,870  INFO [main] LoginPage:94 - Login Page Text is: Java By Kiran
+2021-07-14 14:47:55,873  INFO [main] LoginPage:103 - Text is not Matched. 
+2021-07-14 14:59:53,336  INFO [main] LoginPage:94 - Login Page Text is: Java By Kiran
+2021-07-14 14:59:53,339  INFO [main] LoginPage:103 - Text is not Matched. 
+2021-07-14 15:01:56,078  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 15:01:56,081  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-14 15:24:33,187  INFO [main] LoginPage:42 - Verify title of login pageJavaByKiran | Log in
+2021-07-14 15:24:33,189  INFO [main] LoginPage:47 - LoginPage Title is Matched
+2021-07-15 14:41:18,766  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:41:18,967  INFO [main] UserPage:312 - with username Maharashtra is not match 
+2021-07-15 14:42:23,909  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:42:24,062  INFO [main] UserPage:312 - with username Maharashtra is not match 
+2021-07-15 14:43:44,745  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:43:44,909  INFO [main] UserPage:312 - with username Maharashtra is not match 
+2021-07-15 14:44:11,390  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:44:11,560  INFO [main] UserPage:312 - with username Maharashtra is not match 
+2021-07-15 14:45:23,568  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:45:23,703  INFO [main] UserPage:312 - with username Maharashtra is not match 
+2021-07-15 14:45:50,214  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:45:50,377  INFO [main] UserPage:312 - with username Maharashtra is not match 
+2021-07-15 14:47:28,061  INFO [main] UserPage:306 - [Kiran=Maharashtra, Monica=Maharashtra]
+2021-07-15 14:47:28,244  INFO [main] UserPage:309 - with username Maharashtra is match 
+2021-07-15 14:58:47,172  INFO [main] UserPage:147 - Kiran is Male
+2021-07-15 14:58:47,258  INFO [main] UserPage:147 - Sagar is Male
+2021-07-15 14:58:47,349  INFO [main] UserPage:147 - Monica is Female
+2021-07-15 14:58:47,479  INFO [main] UserPage:147 - Kimaya is Female
+2021-07-15 15:01:40,218  INFO [main] UserPage:147 - Kiran is Male
+2021-07-15 15:01:40,388  INFO [main] UserPage:147 - Sagar is Male
+2021-07-15 15:01:40,549  INFO [main] UserPage:147 - Monica is Female
+2021-07-15 15:01:40,704  INFO [main] UserPage:147 - Kimaya is Female
+2021-07-15 15:07:50,936  INFO [main] UserPage:147 - Kiran is Male
+2021-07-15 15:07:51,023  INFO [main] UserPage:147 - Sagar is Male
+2021-07-15 15:07:51,112  INFO [main] UserPage:147 - Monica is Female
+2021-07-15 15:07:51,186  INFO [main] UserPage:147 - Kimaya is Female
+2021-07-15 15:11:35,096  INFO [main] UserPage:147 - Kiran is Male
+2021-07-15 15:11:35,206  INFO [main] UserPage:147 - Sagar is Male
+2021-07-15 15:11:35,325  INFO [main] UserPage:147 - Monica is Female
+2021-07-15 15:11:35,443  INFO [main] UserPage:147 - Kimaya is Female
+2021-07-15 15:14:28,564  INFO [main] UserPage:147 - Kiran is Male
+2021-07-15 15:14:28,647  INFO [main] UserPage:147 - Sagar is Male
+2021-07-15 15:14:28,740  INFO [main] UserPage:147 - Monica is Female
+2021-07-15 15:14:28,848  INFO [main] UserPage:147 - Kimaya is Female
+2021-07-15 15:15:57,302  INFO [main] UserPage:147 - Kiran is Male
+2021-07-15 15:15:57,445  INFO [main] UserPage:147 - Sagar is Male
+2021-07-15 15:15:57,590  INFO [main] UserPage:147 - Monica is Female
+2021-07-15 15:15:57,729  INFO [main] UserPage:147 - Kimaya is Female
+2021-07-15 15:36:05,455  INFO [main] OperatorsPage:75 - Mobile no is : 9552343698
+2021-07-15 15:36:05,462  INFO [main] OperatorsPage:77 - Length of mobile No is :10
+2021-07-15 15:36:05,465  INFO [main] OperatorsPage:78 - Length of mobile No is :10
+2021-07-15 15:36:05,490  INFO [main] OperatorsPage:75 - Mobile no is : 7066885937
+2021-07-15 15:36:05,493  INFO [main] OperatorsPage:77 - Length of mobile No is :10
+2021-07-15 15:36:05,495  INFO [main] OperatorsPage:78 - Length of mobile No is :10
+2021-07-15 15:36:05,515  INFO [main] OperatorsPage:75 - Mobile no is : 8888558802
+2021-07-15 15:36:05,518  INFO [main] OperatorsPage:77 - Length of mobile No is :10
+2021-07-15 15:36:05,522  INFO [main] OperatorsPage:78 - Length of mobile No is :10
+2021-07-15 15:36:05,546  INFO [main] OperatorsPage:75 - Mobile no is : 8888809416
+2021-07-15 15:36:05,548  INFO [main] OperatorsPage:77 - Length of mobile No is :10
+2021-07-15 15:36:05,551  INFO [main] OperatorsPage:78 - Length of mobile No is :10
+2021-07-15 15:36:05,577  INFO [main] OperatorsPage:75 - Mobile no is : 8866888662
+2021-07-15 15:36:05,579  INFO [main] OperatorsPage:77 - Length of mobile No is :10
+2021-07-15 15:36:05,581  INFO [main] OperatorsPage:78 - Length of mobile No is :10
+2021-07-15 15:36:05,586  INFO [main] OperatorsPage:83 -  Mobile number limit is match
+2021-07-15 15:49:59,771  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:49:59,841  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:49:59,896  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:49:59,958  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:50:00,065  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only, Darshit=Whats App Only]
+2021-07-15 15:50:00,326  INFO [main] OperatorsPage:108 - Whatsapp Only is not match
+2021-07-15 15:50:40,254  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:50:40,344  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:50:40,409  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:50:40,487  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only]
+2021-07-15 15:50:40,595  INFO [main] OperatorsPage:101 - [Kiran=Whats App Only, Darshit=Whats App Only]
+2021-07-15 15:50:40,790  INFO [main] OperatorsPage:105 - Whatsapp Only is match with person
+2021-07-15 16:15:43,773  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail]
+2021-07-15 16:15:43,894  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail]
+2021-07-15 16:15:43,981  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail, Varsha=Whats App Phone Call SMS eMail]
+2021-07-15 16:15:44,213  INFO [main] OperatorsPage:152 - whatsapp phone calls email sms is not match
+2021-07-15 16:16:33,402  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail]
+2021-07-15 16:16:33,508  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail]
+2021-07-15 16:16:33,586  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail, Varsha=Whats App Phone Call SMS eMail]
+2021-07-15 16:16:33,804  INFO [main] OperatorsPage:152 - whatsapp phone calls email sms is not match
+2021-07-15 16:19:05,854  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail]
+2021-07-15 16:19:05,962  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail]
+2021-07-15 16:19:06,078  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail, Varsha=Whats App Phone Call SMS eMail]
+2021-07-15 16:19:06,335  INFO [main] OperatorsPage:152 - whatsapp phone calls email sms is not match
+2021-07-15 16:21:14,346  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail]
+2021-07-15 16:21:14,457  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail]
+2021-07-15 16:21:14,541  INFO [main] OperatorsPage:143 - [Neelam=Whats App Phone Call SMS eMail, Seema=Whats App Phone Call SMS eMail, Varsha=Whats App Phone Call SMS eMail]
+2021-07-15 16:21:14,807  INFO [main] OperatorsPage:152 - whatsapp phone calls email sms is not match
+2021-07-15 16:36:50,040  INFO [main] OperatorsPage:170 - Person with job is match
+2021-07-15 16:39:47,284  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help]
+2021-07-15 16:39:47,368  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials)]
+2021-07-15 16:39:47,422  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials)]
+2021-07-15 16:39:47,480  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials)]
+2021-07-15 16:39:47,577  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials), Darshit=Technical Help]
+2021-07-15 16:39:47,769  INFO [main] OperatorsPage:199 - Technical word with Person is not match
+2021-07-15 16:40:23,794  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help]
+2021-07-15 16:40:23,874  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials)]
+2021-07-15 16:40:23,934  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials)]
+2021-07-15 16:40:23,988  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials)]
+2021-07-15 16:40:24,101  INFO [main] OperatorsPage:192 - [Kiran=Urgent Technical Help, Neelam=Technical Discussion (Errors, Software, Technical Materials), Darshit=Technical Help]
+2021-07-15 16:42:47,249  INFO [main] OperatorsPage:218 - []
+2021-07-15 16:42:47,342  INFO [main] OperatorsPage:218 - []
+2021-07-15 16:42:47,471  INFO [main] OperatorsPage:218 - [Seema=Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry)]
+2021-07-15 16:42:47,576  INFO [main] OperatorsPage:218 - [Seema=Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=Enquiry(Course Details, Fees, Enquiry)]
+2021-07-15 16:42:47,654  INFO [main] OperatorsPage:218 - [Seema=Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=Enquiry(Course Details, Fees, Enquiry)]
+2021-07-15 16:42:47,875  INFO [main] OperatorsPage:222 - Enquiry word with Person is match
+2021-07-15 16:46:04,902  INFO [main] OperatorsPage:286 - Actual Serialno is [01, 02, 03, 04, 05]
+2021-07-15 16:46:05,084  INFO [main] OperatorsPage:289 - Serial no is match
+2021-07-15 17:02:02,398  INFO [main] OperatorsPage:242 - [Kiran, Darshit]
+2021-07-15 17:02:02,590  INFO [main] OperatorsPage:245 - Technical word with Person is match
+2021-07-15 19:43:45,936  INFO [main] OperatorsPage:292 - {Neelam=(Errors, Software, Technical Materials), Kiran=null, Seema=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=(Course Details, Fees, Enquiry), Darshit=null}
+2021-07-15 19:43:46,884  INFO [main] OperatorsPage:318 - InBracket filed is match
+2021-07-15 19:47:58,468  INFO [main] OperatorsPage:292 - [Kiran=null, Neelam=(Errors, Software, Technical Materials), Seema=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=(Course Details, Fees, Enquiry), Darshit=null]
+2021-07-15 19:47:58,651  INFO [main] OperatorsPage:299 - Inbracket filed is not match
+2021-07-15 19:49:45,917  INFO [main] OperatorsPage:292 - [Technical Discussion (Errors, Software, Technical Materials)=(Errors, Software, Technical Materials), Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry)=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Enquiry(Course Details, Fees, Enquiry)=(Course Details, Fees, Enquiry)]
+2021-07-15 19:49:46,117  INFO [main] OperatorsPage:299 - Inbracket filed is not match
+2021-07-15 19:52:57,363  INFO [main] OperatorsPage:292 - [Urgent Technical Help=null, Technical Discussion (Errors, Software, Technical Materials)=(Errors, Software, Technical Materials), Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry)=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Enquiry(Course Details, Fees, Enquiry)=(Course Details, Fees, Enquiry), Technical Help=null]
+2021-07-15 19:52:57,566  INFO [main] OperatorsPage:299 - Inbracket filed is not match
+2021-07-15 19:54:35,185  INFO [main] OperatorsPage:293 - [Technical Discussion (Errors, Software, Technical Materials)=(Errors, Software, Technical Materials), Administration (Fees, ID Card, Certificates, WhatsApp Group, Enquiry)=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Enquiry(Course Details, Fees, Enquiry)=(Course Details, Fees, Enquiry)]
+2021-07-15 19:54:35,386  INFO [main] OperatorsPage:300 - Inbracket filed is not match
+2021-07-15 19:55:28,014  INFO [main] OperatorsPage:293 - [Neelam=(Errors, Software, Technical Materials), Seema=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=(Course Details, Fees, Enquiry)]
+2021-07-15 19:55:28,208  INFO [main] OperatorsPage:300 - Inbracket filed is not match
+2021-07-15 19:55:55,511  INFO [main] OperatorsPage:293 - [Kiran=null, Neelam=(Errors, Software, Technical Materials), Seema=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=(Course Details, Fees, Enquiry), Darshit=null]
+2021-07-15 19:55:55,707  INFO [main] OperatorsPage:300 - Inbracket filed is not match
+2021-07-15 19:58:04,028  INFO [main] OperatorsPage:293 - [Kiran=null, Neelam=(Errors, Software, Technical Materials), Seema=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=(Course Details, Fees, Enquiry), Darshit=null]
+2021-07-15 19:58:04,220  INFO [main] OperatorsPage:300 - Inbracket filed is not match
+2021-07-15 19:58:38,587  INFO [main] OperatorsPage:293 - [Neelam=(Errors, Software, Technical Materials), Seema=(Fees, ID Card, Certificates, WhatsApp Group, Enquiry), Varsha=(Course Details, Fees, Enquiry)]
+2021-07-15 19:58:38,771  INFO [main] OperatorsPage:297 - InBracket filed is match
+2021-07-15 20:28:49,195  INFO [main] OperatorsPage:324 - Maximum time is match
+2021-07-15 20:46:15,521  INFO [main] OperatorsPage:350 - {Neelam=[7066885937, 09:00 AM to 06:00 PM], Kiran=[9552343698, 07:00 AM to 10:00 PM], Seema=[8888558802, 09:00 AM to 06:00 PM], Varsha=[8888809416, 09:00 AM to 06:00 PM], Darshit=[8866888662, 08:30 AM to 02:00 PM]}
+2021-07-15 20:46:16,609  INFO [main] OperatorsPage:370 - Person with contact no and time is match
+2021-07-16 16:16:20,292  INFO [main] OperatorsPage:346 - [Kiran=[9552343698,07:00 AM to 10:00 PM], Neelam=[7066885937,09:00 AM to 06:00 PM], Seema=[8888558802,09:00 AM to 06:00 PM], Varsha=[8888809416,09:00 AM to 06:00 PM], Darshit=[8866888662,08:30 AM to 02:00 PM]]
+2021-07-16 16:16:20,749  INFO [main] OperatorsPage:349 - Person with contact no and time is match
+2021-07-20 14:48:46,565  INFO [main] OperatorsPage:55 - 5
+2021-07-20 14:48:46,620  INFO [main] OperatorsPage:57 - 5
+2021-07-20 14:48:46,670  INFO [main] OperatorsPage:61 - Person counting is match
+2021-07-28 14:04:07,689  INFO [main] DownloadsPage:97 - []
+2021-07-28 14:04:07,751  INFO [main] DownloadsPage:97 - []
+2021-07-28 14:04:07,817  INFO [main] DownloadsPage:97 - []
+2021-07-28 14:04:07,906  INFO [main] DownloadsPage:97 - [76.0=Google Chrome]
+2021-07-28 14:04:07,984  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 14:04:08,032  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 14:04:08,102  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 14:04:09,369  INFO [main] DownloadsPage:106 - Vender of Goolechrome is not match
+2021-07-28 14:05:04,014  INFO [main] DownloadsPage:60 - Actual header is [Sr, Name, vendor, Version, 32bit, 64bit, Common, Official Source
+*For prevoius and latest releases]
+2021-07-28 14:05:04,200  INFO [main] DownloadsPage:70 - Name
+2021-07-28 14:05:04,365  INFO [main] DownloadsPage:70 - vendor
+2021-07-28 14:05:04,446  INFO [main] DownloadsPage:70 - Version
+2021-07-28 14:05:04,514  INFO [main] DownloadsPage:70 - 32bit
+2021-07-28 14:05:04,585  INFO [main] DownloadsPage:70 - 64bit
+2021-07-28 14:05:04,652  INFO [main] DownloadsPage:70 - Common
+2021-07-28 14:05:04,725  INFO [main] DownloadsPage:70 - Official Source
+2021-07-28 14:05:04,790  INFO [main] DownloadsPage:70 - 
+2021-07-28 14:05:04,856  INFO [main] DownloadsPage:70 - 
+2021-07-28 14:05:04,916  INFO [main] DownloadsPage:70 - 
+2021-07-28 14:05:04,980  INFO [main] DownloadsPage:70 - 
+2021-07-28 14:05:05,044  INFO [main] DownloadsPage:70 - 
+2021-07-28 14:05:05,112  INFO [main] DownloadsPage:70 - 
+2021-07-28 14:05:05,181  INFO [main] DownloadsPage:70 - *For prevoius and latest releases
+2021-07-28 14:05:05,185  INFO [main] DownloadsPage:74 - Expected header is [Name, vendor, Version, 32bit, 64bit, Common, Official Source, , , , , , , *For prevoius and latest releases]
+2021-07-28 14:05:05,188  INFO [main] DownloadsPage:79 - Header is not match
+2021-07-28 14:05:16,513  INFO [main] DownloadsPage:97 - []
+2021-07-28 14:05:16,585  INFO [main] DownloadsPage:97 - []
+2021-07-28 14:05:16,640  INFO [main] DownloadsPage:97 - []
+2021-07-28 14:05:16,756  INFO [main] DownloadsPage:97 - [76.0=Google Chrome]
+2021-07-28 14:05:16,884  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 14:05:16,936  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 14:05:17,001  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 14:05:17,214  INFO [main] DownloadsPage:103 - Vender of Goolechrome is match
+2021-07-28 14:12:31,845  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)]]
+2021-07-28 14:12:31,985  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar]]
+2021-07-28 14:12:32,152  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar], =[2.46.0,Selenium Server Source Jar]]
+2021-07-28 14:12:32,277  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar], =[2.46.0,Selenium Server Source Jar], 32bit=[76.0,Google Chrome]]
+2021-07-28 14:12:32,414  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar], =[2.46.0,Selenium Server Source Jar], 32bit=[76.0,Google Chrome], =[76.0,Google Chrome Driver]]
+2021-07-28 14:12:32,552  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar], =[2.46.0,Selenium Server Source Jar], 32bit=[76.0,Google Chrome], =[76.0,Google Chrome Driver], 32bit=[69.0,Mozilla Firefox]]
+2021-07-28 14:12:32,711  INFO [main] DownloadsPage:150 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar], =[2.46.0,Selenium Server Source Jar], 32bit=[76.0,Google Chrome], =[76.0,Google Chrome Driver], 32bit=[69.0,Mozilla Firefox], 32bit=[0.24.0,Gecko Driver for Latest firefox]]
+2021-07-28 14:12:32,925  INFO [main] DownloadsPage:158 - Vender & Version of 32 bit is not match
+2021-07-28 14:14:17,874  INFO [main] DownloadsPage:152 - [32bit=[1.8,Java Development Kit (JDK)], =[2.52.0 3.9.0,Selenium Server Standalon Jar], =[2.46.0,Selenium Server Source Jar], 32bit=[76.0,Google Chrome], =[76.0,Google Chrome Driver], 32bit=[69.0,Mozilla Firefox], 32bit=[0.24.0,Gecko Driver for Latest firefox]]
+2021-07-28 14:14:18,060  INFO [main] DownloadsPage:158 - Vender & Version of 32 bit is not match
+2021-07-28 14:16:11,593  INFO [main] DownloadsPage:152 - [32bit=[Java Development Kit (JDK),1.8], =[Selenium Server Standalon Jar,2.52.0 3.9.0], =[Selenium Server Source Jar,2.46.0], 32bit=[Google Chrome,76.0], =[Google Chrome Driver,76.0], 32bit=[Mozilla Firefox,69.0], 32bit=[Gecko Driver for Latest firefox,0.24.0]]
+2021-07-28 14:16:11,773  INFO [main] DownloadsPage:158 - Vender & Version of 32 bit is not match
+2021-07-28 14:19:58,408  INFO [main] DownloadsPage:152 - [32bit=[Java Development Kit (JDK),1.8], =[Selenium Server Standalon Jar,2.52.0 3.9.0], =[Selenium Server Source Jar,2.46.0], 32bit=[Google Chrome,76.0], =[Google Chrome Driver,76.0], 32bit=[Mozilla Firefox,69.0], 32bit=[Gecko Driver for Latest firefox,0.24.0]]
+2021-07-28 14:19:58,606  INFO [main] DownloadsPage:158 - Vender & Version of 32 bit is not match
+2021-07-28 14:24:02,221  INFO [main] DownloadsPage:152 - [32bit=[Java Development Kit (JDK),1.8], =[Selenium Server Standalon Jar,2.52.0 3.9.0], =[Selenium Server Source Jar,2.46.0], 32bit=[Google Chrome,76.0], =[Google Chrome Driver,76.0], 32bit=[Mozilla Firefox,69.0], 32bit=[Gecko Driver for Latest firefox,0.24.0]]
+2021-07-28 14:24:02,423  INFO [main] DownloadsPage:158 - Vender & Version of 32 bit is not match
+2021-07-28 14:32:39,620  INFO [main] DownloadsPage:151 - [32bit=[Java Development Kit (JDK),1.8], =[Selenium Server Standalon Jar,2.52.0 3.9.0], =[Selenium Server Source Jar,2.46.0], 32bit=[Google Chrome,76.0], =[Google Chrome Driver,76.0], 32bit=[Mozilla Firefox,69.0], 32bit=[Gecko Driver for Latest firefox,0.24.0]]
+2021-07-28 14:32:39,813  INFO [main] DownloadsPage:157 - Vender & Version of 32 bit is not match
+2021-07-28 14:36:50,225  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8]
+2021-07-28 14:36:50,387  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8, -Selenium Server Standalon Jar-2.52.0 3.9.0]
+2021-07-28 14:36:50,534  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8, -Selenium Server Standalon Jar-2.52.0 3.9.0, -Selenium Server Source Jar-2.46.0]
+2021-07-28 14:36:50,668  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8, -Selenium Server Standalon Jar-2.52.0 3.9.0, -Selenium Server Source Jar-2.46.0, 32bit-Google Chrome-76.0]
+2021-07-28 14:36:50,777  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8, -Selenium Server Standalon Jar-2.52.0 3.9.0, -Selenium Server Source Jar-2.46.0, 32bit-Google Chrome-76.0, -Google Chrome Driver-76.0]
+2021-07-28 14:36:50,890  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8, -Selenium Server Standalon Jar-2.52.0 3.9.0, -Selenium Server Source Jar-2.46.0, 32bit-Google Chrome-76.0, -Google Chrome Driver-76.0, 32bit-Mozilla Firefox-69.0]
+2021-07-28 14:36:50,999  INFO [main] DownloadsPage:150 - [32bit-Java Development Kit (JDK)-1.8, -Selenium Server Standalon Jar-2.52.0 3.9.0, -Selenium Server Source Jar-2.46.0, 32bit-Google Chrome-76.0, -Google Chrome Driver-76.0, 32bit-Mozilla Firefox-69.0, 32bit-Gecko Driver for Latest firefox-0.24.0]
+2021-07-28 14:36:51,205  INFO [main] DownloadsPage:158 - Vender & Version of 32 bit is not match
+2021-07-28 21:08:58,981  INFO [main] DownloadsPage:97 - []
+2021-07-28 21:08:59,104  INFO [main] DownloadsPage:97 - []
+2021-07-28 21:08:59,142  INFO [main] DownloadsPage:97 - []
+2021-07-28 21:08:59,224  INFO [main] DownloadsPage:97 - [76.0=Google Chrome]
+2021-07-28 21:08:59,302  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 21:08:59,348  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 21:08:59,399  INFO [main] DownloadsPage:97 - [76.0=Google Chrome, 76.0=Google Chrome Driver]
+2021-07-28 21:08:59,577  INFO [main] DownloadsPage:103 - Vender of Goolechrome is match
+2021-07-28 21:11:18,207  INFO [main] LoginPage:137 - Email error is: Please enter email as kiran@gmail.com
+2021-07-28 21:11:18,231  INFO [main] LoginPage:141 - Password error is: Please enter password 123456
+2021-07-28 21:11:18,234  INFO [main] LoginPage:145 - Email Error is matched
+2021-07-29 15:03:35,721  INFO [main] DownloadsPage:163 - Vender & Version of 32 bit is not match
+2021-07-29 15:06:22,234  INFO [main] DownloadsPage:160 - Vender & Version of 32 bit is match
+2021-07-29 15:21:08,289  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:21:08,469  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:21:56,140  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:21:56,328  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:22:50,626  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:22:50,812  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:23:44,526  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:23:44,715  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:24:49,145  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:24:49,338  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:25:20,903  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:25:21,087  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:26:57,760  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:26:57,960  INFO [main] DownloadsPage:213 - SerialNo with Excel is not match
+2021-07-29 15:27:21,405  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:27:21,585  INFO [main] DownloadsPage:210 - SerialNo with Excel is match
+2021-07-29 15:29:29,795  INFO [main] DownloadsPage:234 - {Java Development Kit (JDK)=[32bit, 64bit], Mozilla Firefox=[32bit, 64bit], Selenium Server Standalon Jar=[, ], Google Chrome=[32bit, 64bit], Gecko Driver for Latest firefox=[32bit, 64bit], Selenium Server Source Jar=[, ], Google Chrome Driver=[, ]}
+2021-07-29 15:29:29,994  INFO [main] DownloadsPage:241 - Vender 32bit & 64bi is not match
+2021-07-29 15:30:49,553  INFO [main] DownloadsPage:234 - {Java Development Kit (JDK)=[32bit, 64bit], Mozilla Firefox=[32bit, 64bit], Selenium Server Standalon Jar=[, ], Google Chrome=[32bit, 64bit], Gecko Driver for Latest firefox=[32bit, 64bit], Selenium Server Source Jar=[, ], Google Chrome Driver=[, ]}
+2021-07-29 15:30:49,736  INFO [main] DownloadsPage:241 - Vender 32bit & 64bi is not match
+2021-07-29 15:37:57,928  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:37:58,108  INFO [main] DownloadsPage:209 - SerialNo with Excel is match
+2021-07-29 15:38:29,482  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-29 15:38:29,682  INFO [main] DownloadsPage:209 - SerialNo with Excel is match
+2021-07-29 15:39:23,311  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK)]
+2021-07-29 15:39:23,431  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar]
+2021-07-29 15:39:23,541  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar]
+2021-07-29 15:39:23,647  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome]
+2021-07-29 15:39:23,740  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver]
+2021-07-29 15:39:23,827  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver, =Mozilla Firefox]
+2021-07-29 15:39:23,906  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver, =Mozilla Firefox, =Gecko Driver for Latest firefox]
+2021-07-29 15:39:24,141  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-29 15:40:27,830  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK)]
+2021-07-29 15:40:27,938  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar]
+2021-07-29 15:40:28,049  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar]
+2021-07-29 15:40:28,131  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome]
+2021-07-29 15:40:28,212  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver]
+2021-07-29 15:40:28,289  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver, =Mozilla Firefox]
+2021-07-29 15:40:28,366  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver, =Mozilla Firefox, =Gecko Driver for Latest firefox]
+2021-07-29 15:40:28,561  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-29 15:42:22,786  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK)]
+2021-07-29 15:42:22,909  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar]
+2021-07-29 15:42:23,017  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar]
+2021-07-29 15:42:23,097  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome]
+2021-07-29 15:42:23,183  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver]
+2021-07-29 15:42:23,291  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver, =Mozilla Firefox]
+2021-07-29 15:42:23,378  INFO [main] DownloadsPage:256 - [=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar, =Google Chrome, Common=Google Chrome Driver, =Mozilla Firefox, =Gecko Driver for Latest firefox]
+2021-07-29 15:42:23,579  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-29 15:45:32,116  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK)}
+2021-07-29 15:45:32,220  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar}
+2021-07-29 15:45:32,341  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:45:32,448  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:45:32,537  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:45:32,616  INFO [main] DownloadsPage:256 - {=Mozilla Firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:45:32,690  INFO [main] DownloadsPage:256 - {=Gecko Driver for Latest firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:45:32,888  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-29 15:48:29,978  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK)}
+2021-07-29 15:48:30,089  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar}
+2021-07-29 15:48:30,196  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:48:30,302  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:48:30,391  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:48:30,470  INFO [main] DownloadsPage:256 - {=Mozilla Firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:48:30,548  INFO [main] DownloadsPage:256 - {=Gecko Driver for Latest firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:48:30,751  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-29 15:51:33,241  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK)}
+2021-07-29 15:51:33,354  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar}
+2021-07-29 15:51:33,442  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:51:33,534  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:51:33,628  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:51:33,718  INFO [main] DownloadsPage:256 - {=Mozilla Firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:51:33,800  INFO [main] DownloadsPage:256 - {=Gecko Driver for Latest firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:51:34,005  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-29 15:55:03,249  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK)}
+2021-07-29 15:55:03,338  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar}
+2021-07-29 15:55:03,442  INFO [main] DownloadsPage:256 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:55:03,534  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-29 15:55:03,635  INFO [main] DownloadsPage:256 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:55:03,723  INFO [main] DownloadsPage:256 - {=Mozilla Firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:55:03,797  INFO [main] DownloadsPage:256 - {=Gecko Driver for Latest firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-29 15:55:03,998  INFO [main] DownloadsPage:263 - Common Vender not match
+2021-07-30 13:59:00,984  INFO [main] DownloadsPage:103 - Vender of Goolechrome is match
+2021-07-30 13:59:06,014  INFO [main] DownloadsPage:125 - []
+2021-07-30 13:59:06,095  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar]
+2021-07-30 13:59:06,207  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 13:59:06,265  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 13:59:06,314  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 13:59:06,379  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 13:59:06,440  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 13:59:06,661  INFO [main] DownloadsPage:132 - Vender of Selenium Jar with version is not match
+2021-07-30 13:59:12,339  INFO [main] DownloadsPage:160 - Vender & Version of 32 bit is match
+2021-07-30 13:59:17,439  INFO [main] DownloadsPage:185 - {64bit=[Java Development Kit (JDK), 1.8]}
+2021-07-30 13:59:17,575  INFO [main] DownloadsPage:185 - {=[Selenium Server Standalon Jar, 2.52.0 3.9.0], 64bit=[Java Development Kit (JDK), 1.8]}
+2021-07-30 13:59:17,693  INFO [main] DownloadsPage:185 - {=[Selenium Server Source Jar, 2.46.0], 64bit=[Java Development Kit (JDK), 1.8]}
+2021-07-30 13:59:17,800  INFO [main] DownloadsPage:185 - {=[Selenium Server Source Jar, 2.46.0], 64bit=[Google Chrome, 76.0]}
+2021-07-30 13:59:17,914  INFO [main] DownloadsPage:185 - {=[Google Chrome Driver, 76.0], 64bit=[Google Chrome, 76.0]}
+2021-07-30 13:59:18,023  INFO [main] DownloadsPage:185 - {=[Google Chrome Driver, 76.0], 64bit=[Mozilla Firefox, 69.0]}
+2021-07-30 13:59:18,141  INFO [main] DownloadsPage:185 - {=[Google Chrome Driver, 76.0], 64bit=[Gecko Driver for Latest firefox, 0.24.0]}
+2021-07-30 13:59:18,241  INFO [main] DownloadsPage:190 - Vender & Version of 64 bit is match
+2021-07-30 13:59:22,771  INFO [main] DownloadsPage:205 - Actual Serialno is [01]
+2021-07-30 13:59:22,791  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02]
+2021-07-30 13:59:22,813  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03]
+2021-07-30 13:59:22,829  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04]
+2021-07-30 13:59:22,846  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05]
+2021-07-30 13:59:22,860  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06]
+2021-07-30 13:59:22,871  INFO [main] DownloadsPage:205 - Actual Serialno is [01, 02, 03, 04, 05, 06, 07]
+2021-07-30 13:59:22,958  INFO [main] DownloadsPage:210 - SerialNo with Excel is match
+2021-07-30 13:59:28,175  INFO [main] DownloadsPage:234 - {Java Development Kit (JDK)=[32bit, 64bit], Mozilla Firefox=[32bit, 64bit], Selenium Server Standalon Jar=[, ], Google Chrome=[32bit, 64bit], Gecko Driver for Latest firefox=[32bit, 64bit], Selenium Server Source Jar=[, ], Google Chrome Driver=[, ]}
+2021-07-30 13:59:28,256  INFO [main] DownloadsPage:241 - Vender 32bit & 64bi is not match
+2021-07-30 13:59:33,151  INFO [main] DownloadsPage:257 - {=Java Development Kit (JDK)}
+2021-07-30 13:59:33,229  INFO [main] DownloadsPage:257 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar}
+2021-07-30 13:59:33,305  INFO [main] DownloadsPage:257 - {=Java Development Kit (JDK), 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-30 13:59:33,387  INFO [main] DownloadsPage:257 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Selenium Server Source Jar}
+2021-07-30 13:59:33,469  INFO [main] DownloadsPage:257 - {=Google Chrome, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-30 13:59:33,557  INFO [main] DownloadsPage:257 - {=Mozilla Firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-30 13:59:33,634  INFO [main] DownloadsPage:257 - {=Gecko Driver for Latest firefox, 2.52.0 3.9.0=Selenium Server Standalon Jar, Common=Google Chrome Driver}
+2021-07-30 13:59:33,750  INFO [main] DownloadsPage:264 - Common Vender not match
+2021-07-30 14:05:28,660  INFO [main] DownloadsPage:125 - []
+2021-07-30 14:05:28,779  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar]
+2021-07-30 14:05:28,869  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 14:05:28,931  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 14:05:28,976  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 14:05:29,024  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 14:05:29,072  INFO [main] DownloadsPage:125 - [2.52.0 3.9.0=Selenium Server Standalon Jar, 2.46.0=Selenium Server Source Jar]
+2021-07-30 14:05:29,269  INFO [main] DownloadsPage:132 - Vender of Selenium Jar with version is not match
